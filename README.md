@@ -1,2 +1,2 @@
 # UserManagement
-Data retrieval API from User and activity model
+Django project with data retrieval API from User and activity model,
